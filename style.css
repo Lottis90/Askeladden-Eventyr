@@ -19,18 +19,18 @@
 
 .kortitel {
     font-weight: bold;
- font-size: 40px;
+ font-size: 30px;
     margin: 20% 30%;
 }
 
 .kortTekst {
-    font-size: 40px;
+    font-size: 32px;
     margin: 20% 30%;
 }
-.forsideKort{
+/* .forsideKort{
     padding-left: 100px;
     border: 2px solid red;
-}
+} */
 
 .riktigAlternativ{
     color: green;
