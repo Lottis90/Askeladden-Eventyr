@@ -1,7 +1,7 @@
 //#region 
-import * as Blocks from "./barneprat/blocks.mjs";
-import * as Actions from "./barneprat/actions.mjs";
-import * as Utils from "./barneprat/utils.mjs";
+import * as Blocks from "./barneprat/barneprat/blocks.mjs";
+import * as Actions from "./barneprat/barneprat/actions.mjs";
+import * as Utils from "./barneprat/barneprat/utils.mjs";
 //#endregion
 
 
